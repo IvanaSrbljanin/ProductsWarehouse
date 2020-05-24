@@ -1,9 +1,9 @@
 {
  "products": [
-    {code: 'AVC 9234', quantity: 1, floor:1, section: 3},
-    {code: 'NGC 134', quantity: 4, floor:2, section: 2},
-    {code: 'REC 21234', quantity: 2, floor:3, section: 1},
-    {code: 'POC 123456', quantity: 8, floor:2, section: 3},
+    {"code": "AVC 9234", "quantity": 1, "floor":1, "section": 3},
+    {"code": "NGC 134", "quantity": 4, "floor":2, "section": 2},
+    {"code": "REC 21234", "quantity": 2, "floor":3, "section": 1},
+    {"code": "POC 123456", "quantity": 8, "floor":2, "section": 3},
  ],
  "floors": [1,2,3],
  "sections" : [1,2,3]
